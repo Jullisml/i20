@@ -1,0 +1,61 @@
+.button {
+color: white;
+background: rgb(60, 60, 60);
+width: 100px;
+height: 40px;
+text-align: center;
+border-radius: 35px;
+margin: 45px; 
+}
+
+body {
+text-align: center;
+font-family: Raleway;
+color: rgb(60, 60, 60);
+background-color: rgb(190, 190, 190);
+padding-left: 500px;
+padding: 50px;
+}
+
+.frame {
+background-color: white;
+width: 400px;
+height: 400px;
+border-radius: 7px;
+margin: auto; 
+padding-top: 30px;
+}
+
+
+.text {
+width: 300px;
+height: 30px;
+}
+
+.checkbox {
+color: rgb(160, 160, 160);
+font-size: 11pt;
+padding-right: 190px;
+
+}
+
+.forgot {
+color: rgb(160, 160, 160);
+font-size: 11pt;
+padding-left: 190px;
+}
+
+h1 {
+font-size: 18pt;
+padding-right: 100px;
+}
+
+.name {
+padding-right: 230px;
+font-size: 10pt;
+}
+
+.pw {
+padding-right: 230px;
+font-size: 10pt;
+}
